@@ -3,11 +3,11 @@
 ---
 
 <p align="center">
-  <img src="assets/logos/python.png" alt="Python" width="80"/>
-  <img src="assets/logos/pandas.png" alt="Pandas" width="80"/>
-  <img src="assets/logos/numpy.png" alt="NumPy" width="80"/>
-  <img src="assets/logos/sklearn.png" alt="Scikit-Learn" width="80"/>
-  <img src="assets/logos/jupyter.png" alt="Jupyter Notebook" width="80"/>
+  <img src="assets/logos/python.png" alt="Python" width="80" style="margin: 0 15px;"/>
+  <img src="assets/logos/pandas.png" alt="Pandas" width="80" style="margin: 0 15px;"/>
+  <img src="assets/logos/numpy.png" alt="NumPy" width="80" style="margin: 0 15px;"/>
+  <img src="assets/logos/sklearn.png" alt="Scikit-Learn" width="80" style="margin: 0 15px;"/>
+  <img src="assets/logos/jupyter.png" alt="Jupyter" width="80" style="margin: 0 15px;"/>
 </p>
 
 ---
@@ -58,6 +58,7 @@ Der Fokus des Projekts liegt auf:
 ## Installation 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
